@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mim:
 Iniciante em programação<br>Designer<br>Estudante da Fatec Jahu<br>Desenvolvimento de Software Multiplataforma
 
 
