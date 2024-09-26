@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Iniciante em programação<br>Designer<br>Estudante da Fatec Jahu<br>Desenvolvimento de Software Multiplataforma
+Iniciante em programação<br>Estudante da Fatec Jahu<br>Desenvolvimento de Software Multiplataforma
 
 
 ## 🌐 Socials:
